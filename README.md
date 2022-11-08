@@ -1,5 +1,4 @@
 # MavenMarvet_sales_report
-This repository is a case study, Analysis and visualization of MavenMarket Sales using Power query and Power BI.
 This report was made based on MavenMarket Sales (1997-1998) in three countries.
 -The dateset was gotten from Maven Analytics. 
 -I imported the Datasets with the use of Power Query editor into Power BI, then I cleaned and transformed the Data. 
